@@ -1,4 +1,5 @@
 {"msg":"init","dagFile":"Library/Bee/200b0aEDbg.dag","targets":["ScriptAssemblies"]}
+<<<<<<< Updated upstream
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"ScriptAssemblies","enqueuedNodeIndex":6}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Android.Gradle.dll_F80D9E002390AFF5.mvfrm","enqueuedNodeIndex":5,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Android.GradleProject.dll_8603A94AD8437610.mvfrm","enqueuedNodeIndex":7,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
@@ -1099,3 +1100,8 @@
 {"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb","displayName":"Copying Assembly-CSharp.pdb","index":350}
 {"msg":"noderesult","processed_node_count":347,"number_of_nodes_ever_queued":350,"annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll","index":349,"exitcode":0,"outputfile":"Library/ScriptAssemblies/Assembly-CSharp.dll"}
 {"msg":"noderesult","processed_node_count":348,"number_of_nodes_ever_queued":350,"annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb","index":350,"exitcode":0,"outputfile":"Library/ScriptAssemblies/Assembly-CSharp.pdb"}
+=======
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ScriptAssemblies","enqueuedNodeIndex":1}
+{"msg":"newNode","annotation":"ScriptAssemblies","index":1}
+{"msg":"runNodeAction","annotation":"ScriptAssemblies","index":1}
+>>>>>>> Stashed changes

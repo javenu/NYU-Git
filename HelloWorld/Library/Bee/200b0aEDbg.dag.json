@@ -7,6 +7,7 @@
       "Outputs": [],
       "ToBuildDependencies": [
         1,
+<<<<<<< Updated upstream
         2,
         3,
         4,
@@ -358,11 +359,15 @@
         350,
         351,
         352
+=======
+        2
+>>>>>>> Stashed changes
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 0
     },
     {
+<<<<<<< Updated upstream
       "Annotation": "WriteText Library/Bee/artifacts/200b0aEDbg.dag/UnityEngine.TestRunner.AdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.TestRunner.AdditionalFile.txt",
       "ActionType": "WriteFile",
@@ -782,10 +787,13 @@
       "DebugActionIndex": 5
     },
     {
+=======
+>>>>>>> Stashed changes
       "Annotation": "ScriptAssemblies",
       "DisplayName": null,
       "Inputs": [],
       "Outputs": [],
+<<<<<<< Updated upstream
       "ToBuildDependencies": [
         5,
         7,
@@ -21572,6 +21580,10 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 351
+=======
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 1
+>>>>>>> Stashed changes
     },
     {
       "Annotation": "ScriptAssembliesAndTypeDB",
@@ -21579,11 +21591,18 @@
       "Inputs": [],
       "Outputs": [],
       "ToBuildDependencies": [
+<<<<<<< Updated upstream
         6,
         351
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 352
+=======
+        1
+      ],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 2
+>>>>>>> Stashed changes
     }
   ],
   "FileSignatures": [
@@ -21692,9 +21711,12 @@
   ],
   "StatSignatures": [
     {
+<<<<<<< Updated upstream
       "File": "/Users/justinhebert/Desktop/NYU/Unity/NYU-Git/HelloWorld/getconf"
     },
     {
+=======
+>>>>>>> Stashed changes
       "File": "Assets/csc.rsp"
     },
     {
@@ -21702,6 +21724,7 @@
     },
     {
       "File": "Library/Bee/200b0aEDbg-inputdata.json"
+<<<<<<< Updated upstream
     },
     {
       "File": "Library/PackageCache/com.unity.collab-proxy@2.0.0/Editor/PlasticSCM/csc.rsp"
@@ -21792,6 +21815,8 @@
     },
     {
       "File": "Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.State/csc.rsp"
+=======
+>>>>>>> Stashed changes
     }
   ],
   "GlobSignatures": [
@@ -21817,8 +21842,13 @@
   "EmitDataForBeeWhy": 0,
         "NamedNodes": {
           "all_tundra_nodes": 0,
+<<<<<<< Updated upstream
           "ScriptAssemblies": 6,
           "ScriptAssembliesAndTypeDB": 352
+=======
+          "ScriptAssemblies": 1,
+          "ScriptAssembliesAndTypeDB": 2
+>>>>>>> Stashed changes
         }
 ,  "DefaultNodes": [
     0
