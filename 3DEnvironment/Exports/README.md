@@ -1,6 +1,6 @@
 # 3D Environment
 
-Unity demo of an interactive room based on the [Create with VR](https://learn.unity.com/course/create-with-vr) tutorial
+Demo of an interactive room based on Unity's [Create with VR](https://learn.unity.com/course/create-with-vr) tutorial
 
 This demo includes:
 
