@@ -1,6 +1,6 @@
 # 3D Environment
 
-## Demo includes
+# Demo includes
 
  - Introduction
  - Requirements
@@ -9,4 +9,4 @@
  - Troubleshooting
  - Maintainers
  
-## Introduction
+
