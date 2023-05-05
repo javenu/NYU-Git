@@ -10,7 +10,7 @@ This demo includes:
  - Animations: door opening / closing, clock on the wall
  - UI: welcome home sign on the door
  - Cosmetic elements: music from radio, fire in the fireplace, video on the TV
- - Interactibles: table and apples, etc
+ - Interactibles: tablet and apples, etc
 
 # Instructions
 To grab an interactible, make sure its in the center of the screen and press E on the keyboard.
