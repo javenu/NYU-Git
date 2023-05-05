@@ -5,7 +5,7 @@ Unity demo of an interactive room based on the [Create with VR](https://learn.un
 This demo includes:
 
  - 3D Assets
- - FP camera
+ - First Person camera
  - Boundaries: walls and front door have colliders
  - Animations: door opening / closing, clock on the wall
  - UI: welcome home sign on the door
