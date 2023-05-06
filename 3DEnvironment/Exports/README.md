@@ -13,6 +13,4 @@ This demo includes:
  - Interactibles: tablet and apples, etc
 
 # Instructions
-To grab an interactible, make sure its in the center of the screen and press E on the keyboard.
-It can be difficult to grab items as they are smaller and its not obvious what the ray is interacting with.
-The front door is not meant to open all the way as that would require setting boundaries on the landscape.
+Use arrows and WASD to move around the room. To grab an interactible, make sure its in the center of the screen and press E on the keyboard. Tip: The tablet or water pot are the easiest items to grab. Smaller items can be difficult to grab as they are smaller and its not obvious what collider the ray is interacting with. The front door is not meant to open all the way as that would require setting boundaries around the entire landscape.
